@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Books, Cricket, Politics and anything! 
 - 📫 How to reach me: 
-- 😄 Pronouns: He/Mr.
+- 😄 Pronouns: He/Mr. KK
 - ⚡ Fun fact: 
 
