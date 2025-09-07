@@ -1,11 +1,16 @@
-### Hi there 👋
+# Hi there! I'm Kishore  ♂️
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Flutter and Angular
-- 👯 I’m looking to collaborate on Android Opensource
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Books, Cricket, Politics and anything! 
-- 📫 How to reach me: 
-- 😄 Pronouns: He/Mr. KK
-- ⚡ Fun fact: 
+LATEST UPDATE: Exploring Kotlin Multiplatform and Compose Multiplatform .
 
+###  Nice to see you!  
+
+  * Sr. Android Engineer @Jio. Ex – @Encora.
+  *  I develop Mobile, Web apps and Backend server.
+
+###  Github Stats
+
+---
+
+##  Know more about me
+
+[Portfolio] [Mail] [Twitter] [LinkedIn] [Medium] [Google Play] [Instagram]
